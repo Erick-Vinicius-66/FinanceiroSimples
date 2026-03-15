@@ -31,6 +31,7 @@ Formulário de Lançamentos:
 
 🛠️ Como rodar o projeto
 Clone o repositório:
+https://github.com/Erick-Vinicius-66/FinanceiroSimples.git
 
 Bash
 git clone:
