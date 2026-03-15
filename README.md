@@ -6,7 +6,7 @@ Linguagem: C# (.NET 9/10)
 
 Framework: ASP.NET Core MVC
 
-Interface: HTML5, CSS3, (Bootstrap ou Tailwind, se estiver usando)
+Interface: HTML5, CSS
 
 IDE: Visual Studio
 
@@ -24,10 +24,11 @@ Fluxo de Caixa: Cálculo automático do saldo disponível com base nas movimenta
 🖼️ Visão do Sistema
 
 Dashboard Principal:
-!(https://via.placeholder.com/800x400?text=Coloque+a+print+da+sua+Home+aqui)
+![Dashboard](https://github.com/Erick-Vinicius-66/FinanceiroSimples/blob/master/Imagens%20do%20projeto/Dashboard.png)
 
 Formulário de Lançamentos:
-!(https://via.placeholder.com/800x400?text=Coloque+a+print+do+seu+Form+aqui)
+
+![Lançamento](https://github.com/Erick-Vinicius-66/FinanceiroSimples/blob/master/Imagens%20do%20projeto/Novo%20Lan%C3%A7amento.png)
 
 🛠️ Como rodar o projeto
 Clone o repositório:
